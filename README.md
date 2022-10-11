@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://i.imgur.com/xHGICx7.png" align="center" style="width: 60%" "height : 50%" />
+</div>  
 ### <div align="center">Hi there 👋 Im Agustín Buzzalino Full Stack Developer 🚀</div>  <br/>
 
 - 🔭 I’m currently working on a Pokemon App
