@@ -35,4 +35,6 @@
 <br /> <br/>
 
 ## Some images of my work
+<div align="center">
 <img src="https://i.imgur.com/qrEYiQD.png" align="center" style="width: 60%" "height : 50%" />
+ </div>
