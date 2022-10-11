@@ -1,12 +1,12 @@
 
-### <div align="center">Hi there 👋 Im Agustín Buzzalino Full Stack Developer 🚀</div>  
+### <div align="center">Hi there 👋 Im Agustín Buzzalino Full Stack Developer 🚀</div>  <br/>
 
 - 🔭 I’m currently working on a Pokemon App
 - 🌱 I’m currently learning Typescript
 - 👯 I’m intrested on starting my developer carreer in the industry
 - 📫 How to reach me: Send me a Email at [Agustín Buzzalino](mailto:agustinbuzzalino94@gmail.com)
 
-
+<br/>
 
 ## Languages and Tools:
 <div align="center">
