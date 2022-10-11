@@ -36,5 +36,13 @@
 
 ## Some images of my work
 <div align="center">
+ <p align="center">Main page of my videogames App</p>
 <img src="https://i.imgur.com/qrEYiQD.png" align="center" style="width: 60%" "height : 50%" />
  </div>
+ 
+<br/> <br/>
+<div align="center">
+ <p align="center">Main page of Arket Ecommerce App(Admin view)</p>
+<img src="https://i.imgur.com/QHQFHZ5.png" align="center" style="width: 60%" "height : 50%" />
+ </div>
+ 
